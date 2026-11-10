@@ -1,0 +1,4 @@
+groq
+python-dotenv
+tavily-python
+pydantic-settings
